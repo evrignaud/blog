@@ -18,17 +18,17 @@ widgets:
 - archive
 - recent_posts
 about_widget_content: >
-  <p><a href="https://github.com/evrignaud"><img src="/images/avatar.png" alt="My profile" style="max-width:64px;"> My projects on GitHub</a></p>
-  <p><a href="https://twitter.com/evrignaud"><img src="/images/twitter.png" alt="Twitter icon" style="max-width:100%;"> Follow @evrignaud</a></p>
+  <p><a href="https://github.com/evrignaud"><img src="/blog/images/avatar.png" alt="My profile" style="max-width:64px;"> My projects on GitHub</a></p>
+  <p><a href="https://twitter.com/evrignaud"><img src="/blog/images/twitter.png" alt="Twitter icon" style="max-width:100%;"> Follow @evrignaud</a></p>
 
 # widget behavior
 archive_type: 'monthly'
 show_count: false
 
 # Miscellaneous
-google_analytics:
-favicon:
-twitter_id:
-google_plus:
+google_analytics: UA-65759837-2
+favicon: /images/favicon.ico
+twitter_id: evrignaud
+google_plus: https://plus.google.com/102991738881452659140
 fb_admins:
 fb_app_id:

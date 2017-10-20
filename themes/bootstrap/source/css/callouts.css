@@ -29,11 +29,11 @@
   color: #777;
 }
 .bs-callout-primary {
-  border-left-color: #428bca;
+  border-left-color: #17a2b8;
 }
 .bs-callout-primary h4,
 .bs-callout-primary .fa {
-  color: #428bca;
+  color: #17a2b8;
 }
 .bs-callout-success {
   border-left-color: #5cb85c;
