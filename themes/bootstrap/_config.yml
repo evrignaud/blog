@@ -1,0 +1,34 @@
+# Header
+navbar_brand: false
+menu:
+  Home: index.html
+  Archives: archives/
+rss: /atom.xml
+
+# Content
+excerpt_link: Read More
+fancybox: false
+
+# Sidebar
+widgets:
+- about         # See also: `about_content`
+- category
+- tag
+- tagcloud
+- archive
+- recent_posts
+about_widget_content: >
+  <p><a href="https://github.com/evrignaud"><img src="/images/avatar.png" alt="My profile" style="max-width:64px;"> My projects on GitHub</a></p>
+  <p><a href="https://twitter.com/evrignaud"><img src="/images/twitter.png" alt="Twitter icon" style="max-width:100%;"> Follow @evrignaud</a></p>
+
+# widget behavior
+archive_type: 'monthly'
+show_count: false
+
+# Miscellaneous
+google_analytics:
+favicon:
+twitter_id:
+google_plus:
+fb_admins:
+fb_app_id:
